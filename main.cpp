@@ -1,5 +1,4 @@
-//Master 2 SRI 2015
-//Athmani Sedam  and Chetouani Mohammed Amine
+
 #include <time.h>
 #include <iostream>
 #include <cv.h>
